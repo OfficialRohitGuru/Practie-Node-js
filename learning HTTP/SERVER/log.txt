@@ -1,5 +1,0 @@
-1717157509470: GET / New Req Recieve
-1717158699429: GET / New Req Recieve
-1717158704779: GET /about New Req Recieve
-1717158737436: GET /about New Req Recieve
-1717158740002: GET / New Req Recieve
