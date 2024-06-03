@@ -7998,5 +7998,13 @@
         "email": "mcragellrr@mapy.cz",
         "gender": "Female",
         "job_title": "Statistician IV"
+    },
+    {
+        "first_name": "Rohit",
+        "last_name": "Guru",
+        "email": "officialrohitguru@gmail.com",
+        "gender": "Male",
+        "job_title": "Software Dev",
+        "id": 1001
     }
 ]
