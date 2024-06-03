@@ -7,3 +7,12 @@
 1717308743810:::ffff:127.0.0.1 GET: /api/users/1002
 1717308766655:::ffff:127.0.0.1 GET: /api/users/1001
 1717308781572:::ffff:127.0.0.1 GET: /api/users/1001
+1717385642736:::ffff:127.0.0.1 GET: /api/users/1001
+1717385653976:::ffff:127.0.0.1 GET: /api/users
+1717386116668:::ffff:127.0.0.1 POST: /api/users
+1717386193582:::ffff:127.0.0.1 POST: /api/users
+1717386579352:::ffff:127.0.0.1 POST: /api/users
+1717386606032:::ffff:127.0.0.1 POST: /api/users
+1717386612861:::ffff:127.0.0.1 POST: /api/users
+1717386662862:::ffff:127.0.0.1 POST: /api/users
+1717388094888:::ffff:127.0.0.1 GET: /api/users/3000
